@@ -1,7 +1,7 @@
 from abc import ABCMeta, abstractmethod
 
 
-class PressServices:
+class PressService:
     def __init__(self):
         pass
 
